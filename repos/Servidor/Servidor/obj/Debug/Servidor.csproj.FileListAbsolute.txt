@@ -1,0 +1,39 @@
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\paco\Desktop\proyectos\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\House\Downloads\Programas c#\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\pipisote\Downloads\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\pipisote\Downloads\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\pipisote\Downloads\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\pipisote\Downloads\Servidor\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\pipisote\Downloads\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\pipisote\Downloads\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\pipisote\Downloads\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Antonio\Documents\Proyecto\repos\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Antonio\Documents\Proyecto\repos\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Antonio\Documents\Proyecto\repos\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Antonio\Documents\Proyecto\repos\Servidor\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\Proyecto\repos\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\Proyecto\repos\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\Antonio\Documents\Proyecto\repos\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\Servidor\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\Servidor\Servidor\obj\Debug\Servidor.pdb

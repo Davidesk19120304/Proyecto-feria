@@ -1,0 +1,157 @@
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EquiposTeams.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.piedra.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.piedra2.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.memoria.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.simondice.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Transitions.dll
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Transitions.pdb
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Amigos.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Juegos.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Mùsica.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ia.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.profe.resources
+C:\Users\pipisote\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.prueba.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Transitions.dll
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Transitions.pdb
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Amigos.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.comunicate.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.profe.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ia.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.memoria.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.prueba.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.simondice.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EquiposTeams.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Juegos.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Mùsica.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.piedra.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.piedra2.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cargando1.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Antonio\Documents\Proyecto\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.voz.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Transitions.dll
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Transitions.pdb
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cargando1.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Amigos.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.comunicate.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.profe.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.voz.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ia.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.memoria.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.prueba.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.simondice.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EquiposTeams.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Juegos.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Mùsica.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.piedra.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.piedra2.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\Proyecto feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cargando1.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cliente.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Amigos.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.comunicate.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.profe.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ia.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.memoria.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.prueba.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.simondice.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EquiposTeams.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Juegos.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.Mùsica.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.piedra.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.piedra2.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Transitions.dll
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Transitions.pdb
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\Proyecto_de_la_feria\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date

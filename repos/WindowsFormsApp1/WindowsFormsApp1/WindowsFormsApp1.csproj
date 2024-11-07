@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25D8D7BC-9472-4421-A850-0DA1E2F8202B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net461\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Transitions, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\dot-net-transitions.1.2.1.0\lib\net40-full\Transitions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cargando1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cargando1.Designer.cs">
+      <DependentUpon>cargando1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente.Designer.cs">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EquiposTeams.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EquiposTeams.Designer.cs">
+      <DependentUpon>EquiposTeams.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Chateando con Amigos!.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Chateando con Amigos!.Designer.cs">
+      <DependentUpon>Chateando con Amigos!.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\comunicate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\comunicate.Designer.cs">
+      <DependentUpon>comunicate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\profe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\profe.Designer.cs">
+      <DependentUpon>profe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ia.Designer.cs">
+      <DependentUpon>ia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iniciosesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iniciosesion.Designer.cs">
+      <DependentUpon>iniciosesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Juegos de Inteligencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Juegos de Inteligencia.Designer.cs">
+      <DependentUpon>Juegos de Inteligencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Reproductor de Musica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Reproductor de Musica.Designer.cs">
+      <DependentUpon>Reproductor de Musica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="memoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="memoria.Designer.cs">
+      <DependentUpon>memoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mensajebox.cs" />
+    <Compile Include="piedra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="piedra.Designer.cs">
+      <DependentUpon>piedra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="piedra2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="piedra2.Designer.cs">
+      <DependentUpon>piedra2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="prueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prueba.Designer.cs">
+      <DependentUpon>prueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RJDatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RJRadio.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Servidor_Chat.cs" />
+    <Compile Include="simondice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="simondice.Designer.cs">
+      <DependentUpon>simondice.cs</DependentUpon>
+    </Compile>
+    <None Include="Resources\nota.png" />
+    <None Include="Resources\cancelar.png" />
+    <None Include="Resources\informacion.png" />
+    <None Include="Resources\signo-de-exclamacion.png" />
+    <None Include="Resources\pregunta.png" />
+    <None Include="Resources\agujero vacio.jpg" />
+    <EmbeddedResource Include="cargando1.resx">
+      <DependentUpon>cargando1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente.resx">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Chateando con Amigos!.resx">
+      <DependentUpon>Chateando con Amigos!.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\comunicate.resx">
+      <DependentUpon>comunicate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\profe.resx">
+      <DependentUpon>profe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ia.resx">
+      <DependentUpon>ia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="memoria.resx">
+      <DependentUpon>memoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prueba.resx">
+      <DependentUpon>prueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="simondice.resx">
+      <DependentUpon>simondice.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Resources\girafa.jpg" />
+    <None Include="Resources\img1.jpg" />
+    <None Include="Resources\img2.jpg" />
+    <None Include="Resources\img3.jpg" />
+    <None Include="Resources\img4.jpg" />
+    <None Include="Resources\img5.jpg" />
+    <None Include="Resources\img6.jpg" />
+    <None Include="Resources\img7.jpg" />
+    <None Include="Resources\img8.jpg" />
+    <None Include="Resources\img9.jpg" />
+    <None Include="Resources\img10.jpg" />
+    <None Include="Resources\img11.jpg" />
+    <None Include="Resources\b27aaf8c-610c-46ca-ba3e-fb806108bcff.jpg" />
+    <None Include="Resources\03b96ff6-8532-41d8-979a-40a94783da6b.jpg" />
+    <None Include="Resources\19345102-1b94-4681-8cd3-fd186db504c4.jpg" />
+    <None Include="Resources\SGBlogosfera_ María José Argüeso.jpg" />
+    <None Include="Resources\Premium Vector _ Cute Giraffe Sitting Cartoon Vector Icon Illustration Animal Nature Icon Concept Isolated Flat.jpg" />
+    <None Include="Resources\SGBlogosfera_ María José Argüeso %281%29.jpg" />
+    <None Include="Resources\descarga %282%29.jpg" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\pngegg.png" />
+    <None Include="Resources\manos-abiertas.png" />
+    <None Include="Resources\tijeras.png" />
+    <EmbeddedResource Include="EquiposTeams.resx">
+      <DependentUpon>EquiposTeams.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iniciosesion.resx">
+      <DependentUpon>iniciosesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Juegos de Inteligencia.resx">
+      <DependentUpon>Juegos de Inteligencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Reproductor de Musica.resx">
+      <DependentUpon>Reproductor de Musica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="piedra.resx">
+      <DependentUpon>piedra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="piedra2.resx">
+      <DependentUpon>piedra2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendarWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendarDark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

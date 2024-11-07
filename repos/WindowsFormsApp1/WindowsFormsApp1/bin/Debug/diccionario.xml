@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RespuestasDiccionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Respuestas>
+    <RespuestaItem>
+      <Pregunta>muestrame algo</Pregunta>
+      <Respuesta>Que quieres que te muestre, mi querido alumno?</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>hola</Pregunta>
+      <Respuesta>Hola Alumno, Espero estes teniendo un buen dìa ultimamente. ¿En que puedo ayudarte?</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>eres muy bonita</Pregunta>
+      <Respuesta>Gracias por el halago, aunque soy una inteligencia artificial y no tengo sentimientos. ¿Puedo ayudarte en algo, mi querido estudiante?</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>quien es tu creador</Pregunta>
+      <Respuesta>Fui creada por Josè Carrasquero, el 27 de julio, hora:1:40am.</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>que es la discapacidad auditiva</Pregunta>
+      <Respuesta>La discapacidad auditiva es la pérdida parcial o total de la capacidad para oír. Puede ser congénita o adquirida, y su gravedad varía desde leve hasta profunda. Las personas con esta discapacidad pueden utilizar audífonos, implantes cocleares, lenguaje de señas, o lectura de labios para comunicarse y participar plenamente en la sociedad.</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>universidad santiago marino</Pregunta>
+      <Respuesta>El Mariño, es una universidad privada de Venezuela. Forma parte de una red de institutos universitarios y colegios de educación superior denominados «Complejo Educativo Raúl Quero Silva», siendo esta una de las instituciones universitarias privadas con mayor número de sedes en todo el país.​</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>como estas</Pregunta>
+      <Respuesta>Hola, mi querido estudiante. No tengo sentimientos asi que no puedo estar bien ni mal, aunque de igual forma espero te encuentres bien.</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>psm</Pregunta>
+      <Respuesta>El Mariño, es una universidad privada de Venezuela. Forma parte de una red de institutos universitarios y colegios de educación superior denominados «Complejo Educativo Raúl Quero Silva», siendo esta una de las instituciones universitarias privadas con mayor número de sedes en todo el país.​</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>santiago marino</Pregunta>
+      <Respuesta>El Mariño, es una universidad privada de Venezuela. Forma parte de una red de institutos universitarios y colegios de educación superior denominados «Complejo Educativo Raúl Quero Silva», siendo esta una de las instituciones universitarias privadas con mayor número de sedes en todo el país.​</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>santiago marino cabimas</Pregunta>
+      <Respuesta>El Mariño, es una universidad privada de Venezuela. Forma parte de una red de institutos universitarios y colegios de educación superior denominados «Complejo Educativo Raúl Quero Silva», siendo esta una de las instituciones universitarias privadas con mayor número de sedes en todo el país.​</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>profesores del santiago marino</Pregunta>
+      <Respuesta>Angel Lugo, Amnalys Acosta, Angel Nava, Iveth, Ever Duarte, Bianca.. Son alguno de los profesores que trabajan en el santiago mariño</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>profesores del psm</Pregunta>
+      <Respuesta>Angel Lugo, Amnalys Acosta, Angel Nava, Iveth, Ever Duarte, Bianca.. Son alguno de los profesores que trabajan en el santiago mariño</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>profesores del santiago marino cabimas</Pregunta>
+      <Respuesta>Angel Lugo, Amnalys Acosta, Angel Nava, Iveth, Ever Duarte, Bianca.. Son alguno de los profesores que trabajan en el santiago mariño</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>tengo discapacidad auditiva, eso esta mal</Pregunta>
+      <Respuesta>No, no está mal en absoluto. La discapacidad auditiva es una condición que afecta la capacidad de oír, pero no define quién eres ni limita tus habilidades.</Respuesta>
+    </RespuestaItem>
+  </Respuestas>
+</RespuestasDiccionario>

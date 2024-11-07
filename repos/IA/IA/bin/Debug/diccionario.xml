@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RespuestasDiccionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Respuestas>
+    <RespuestaItem>
+      <Pregunta>hola</Pregunta>
+      <Respuesta>Hola Querido Estudiante, Que tal te encuentras? Necesitas ayuda?</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>estas bien</Pregunta>
+      <Respuesta>No estoy programada para tener sentimientos jovencito. ¿En que puedo ayayudarte?</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>que es el santiago marino</Pregunta>
+      <Respuesta>Es una universidad politecnica ubicada en cabimas-edo zulia.</Respuesta>
+    </RespuestaItem>
+    <RespuestaItem>
+      <Pregunta>como estas</Pregunta>
+      <Respuesta>Pues, no tengo sentimientos ya que no estoy programada para eso. ¿Y tu? ¿Necesitas ayuda en algo?</Respuesta>
+    </RespuestaItem>
+  </Respuestas>
+</RespuestasDiccionario>
